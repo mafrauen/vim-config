@@ -1,2 +1,4 @@
 # Ingore undo files
 *.un~
+.netrwhist
+.DS_Store
